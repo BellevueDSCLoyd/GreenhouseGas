@@ -9,5 +9,7 @@ An anonymous billionaire philanthropist wants to invest in clean technology to s
 
 ## Dashboard Folder
 
+![Screenshot](dashboard.png)
+
 Houses an executive dashboard using climate change data.  All data used to build the pdf file containing the dashboard are included as well as documentation on the formatting for the dashboard. It was built in Tableau and presented via power point as a pdf file.
 
