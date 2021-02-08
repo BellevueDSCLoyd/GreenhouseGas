@@ -15,3 +15,7 @@ Houses an executive dashboard using climate change data.  All data used to build
 ## Power Point Presentation Folder
 
 Houses an executive presentation using climate change data.  All data used to build the power point files are included as well as the documentation on the formatting for the presentation. It was built in Tableau and presented via power point as a pdf file.
+
+## Blog Folder
+
+Houses a blog using climate change data.  All data used to build the blog are included as well as the documentation on the formatting for the blog. It was built in Tableau and MS word.
