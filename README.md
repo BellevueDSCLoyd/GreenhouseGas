@@ -19,3 +19,7 @@ Houses an executive presentation using climate change data.  All new data source
 ## Blog Folder
 
 Houses a blog using climate change data.  All new data sources used to build the blog are included as well as the documentation on the formatting for the blog. It was built in Tableau and MS Word.
+
+## Blog Folder
+
+Houses an infographic using climate change data.  All new data sources used to build the infographic are included as well as the documentation on the formatting for the infographic. It was built in Tableau and the online Canva Tool and saved in a pdf file.
