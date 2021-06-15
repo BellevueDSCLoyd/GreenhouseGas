@@ -26,7 +26,7 @@ Houses a blog using climate change data.  All new data sources used to build the
 
 Houses an [infographic](Infographic/Climate%20Change.pdf) using climate change data.  All new data sources used to build the infographic are included as well as the documentation on the formatting for the infographic. It was built in Tableau and the online Canva Tool and saved in a pdf file.
 
-## Three Minute Story Folder
+## [Three Minute Story Folder](ThreeMinute/)
 
 [Climate Warnings Three Minute Video](https://youtu.be/WquwcspnCHo)
 
