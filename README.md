@@ -24,7 +24,7 @@ Houses a blog using climate change data.  All new data sources used to build the
 
 ## [Infographic Folder](Infographic/)
 
-Houses an infographic using climate change data.  All new data sources used to build the infographic are included as well as the documentation on the formatting for the infographic. It was built in Tableau and the online Canva Tool and saved in a pdf file.
+Houses an [infographic](Infographic/Climate%20Change.pdf) using climate change data.  All new data sources used to build the infographic are included as well as the documentation on the formatting for the infographic. It was built in Tableau and the online Canva Tool and saved in a pdf file.
 
 ## Three Minute Story Folder
 
