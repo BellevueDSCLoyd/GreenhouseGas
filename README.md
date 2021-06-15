@@ -1,3 +1,5 @@
+![](images/climatechange.jpg)
+
 # Greenhouse Gases
 
 Exploring data on climate change.
