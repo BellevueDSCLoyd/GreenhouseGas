@@ -1,6 +1,6 @@
 # Greenhouse Gases
 
-Visually exploring data on climate change.
+Visually exploring data on climate change to explain where we are and the dangers that exist.
 
 <img src="images/climatechange.jpg" width ="500">
 
