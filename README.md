@@ -2,7 +2,7 @@
 
 Exploring data on climate change.
 
-<img src="images/climatechange.jpg" width ="100">
+<img src="images/climatechange.jpg" width ="500">
 
 ## Fictitious Scenario
 
