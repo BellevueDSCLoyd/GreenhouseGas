@@ -30,4 +30,4 @@ Houses an [infographic](Infographic/Climate%20Change.pdf) using climate change d
 
 [Climate Warnings Three Minute Video](https://youtu.be/WquwcspnCHo)
 
-Houses an infographic using climate change data.  There were no new data sources used. The folder contains the power point presentation with audio and documentation on the formatting. The graphics were also built in Tableau. All the images and sound recordings were taken from Creative Commons sources.
+Houses sources used to create a three minute video on climate change data.  There were no new data sources used. The folder contains the power point presentation with audio and documentation on the formatting. It is also housed on YouTube. The graphics were also built in Tableau. All the images and sound recordings were taken from Creative Commons sources.
