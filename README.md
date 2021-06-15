@@ -1,8 +1,8 @@
-![](images/climatechange.jpg)
-
 # Greenhouse Gases
 
 Exploring data on climate change.
+
+![](images/climatechange.jpg)
 
 ## Fictitious Scenario
 
