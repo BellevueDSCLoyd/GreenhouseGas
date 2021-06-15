@@ -2,7 +2,7 @@
 
 ## Description
 
-Visually exploring data on climate change to explain where we are and the dangers that exist.
+Visually exploring data on climate change to explain the importance and impending crisis.
 
 <img src="images/climatechange.jpg" width ="500">
 
