@@ -18,11 +18,11 @@ Houses an executive dashboard using climate change data.  All data used to build
 
 Houses an executive presentation using climate change data.  All new data sources used to build the power point files are included as well as the documentation on the formatting for the presentation. It was built in Tableau and presented via MS Power Point as a pdf file.
 
-## Blog Folder
+## [Blog Folder](Blog/)
 
 Houses a blog using climate change data.  All new data sources used to build the blog are included as well as the documentation on the formatting for the blog. It was built in Tableau and MS Word.
 
-## Infographic Folder
+## [Infographic Folder](Infographic/)
 
 Houses an infographic using climate change data.  All new data sources used to build the infographic are included as well as the documentation on the formatting for the infographic. It was built in Tableau and the online Canva Tool and saved in a pdf file.
 
