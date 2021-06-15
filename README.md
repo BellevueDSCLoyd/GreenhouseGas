@@ -1,6 +1,6 @@
 # Greenhouse Gases
 
-Exploring data on climate change.
+Visually exploring data on climate change.
 
 <img src="images/climatechange.jpg" width ="500">
 
