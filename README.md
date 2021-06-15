@@ -28,6 +28,6 @@ Houses an infographic using climate change data.  All new data sources used to b
 
 ## Three Minute Story Folder
 
-https://youtu.be/WquwcspnCHo
+[Three Minute Video](https://youtu.be/WquwcspnCHo)
 
 Houses an infographic using climate change data.  There were no new data sources used. The folder contains the power point presentation with audio and documentation on the formatting. The graphics were also built in Tableau. All the images and sound recordings were taken from Creative Commons sources.
