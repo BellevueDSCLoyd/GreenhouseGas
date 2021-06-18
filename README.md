@@ -22,7 +22,7 @@ Houses an executive [presentation](PowerPoint/TargettingGHGPP.pdf) using climate
 
 ## [Blog Folder](Blog/)
 
-Houses a [blog](https://bellevuedscloyd.github.io/GreenhouseGas/Blog/InvisibleCrisis.htm) using climate change data.  All new data sources used to build the blog are included as well as the documentation on the formatting for the blog. It was built in Tableau and MS Word.
+Houses a [blog](https://blog/InvisibleCrisis.htm) using climate change data.  All new data sources used to build the blog are included as well as the documentation on the formatting for the blog. It was built in Tableau and MS Word.
 
 ## [Infographic Folder](Infographic/)
 
