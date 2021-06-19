@@ -1952,8 +1952,8 @@
           </layout-options>
           <size maxheight='1600' minheight='1600' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='63' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98222' id='62' param='vert' w='99000' x='500' y='889'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='65' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98222' id='64' param='vert' w='99000' x='500' y='889'>
                 <zone _.fcp.SetMembershipControl.false...type='title' _.fcp.SetMembershipControl.true...type-v2='title' fixed-size='83' h='10111' id='8' w='99000' x='500' y='889'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2152,7 +2152,32 @@
             <bucket-selection />
           </highlight>
         </viewpoint>
-        <viewpoint name='Sheet 5' />
+        <viewpoint name='Sheet 5'>
+          <selection-collection>
+            <tuple-selection>
+              <tuple-reference>
+                <tuple-descriptor>
+                  <pane-descriptor>
+                    <x-fields>
+                      <field>[federated.17p5c5n1n0yddu17yqedv0cn7qr5].[Multiple Values]</field>
+                    </x-fields>
+                    <y-fields>
+                      <field>[federated.17p5c5n1n0yddu17yqedv0cn7qr5].[:Measure Names]</field>
+                    </y-fields>
+                  </pane-descriptor>
+                  <columns>
+                    <field>[federated.17p5c5n1n0yddu17yqedv0cn7qr5].[:Measure Names]</field>
+                    <field>[federated.17p5c5n1n0yddu17yqedv0cn7qr5].[Multiple Values]</field>
+                  </columns>
+                </tuple-descriptor>
+                <tuple>
+                  <value>&quot;[federated.17p5c5n1n0yddu17yqedv0cn7qr5].[usr:Calculation_517914022230974478:qk]&quot;</value>
+                  <value>190883.34</value>
+                </tuple>
+              </tuple-reference>
+            </tuple-selection>
+          </selection-collection>
+        </viewpoint>
         <viewpoint name='Sheet 8'>
           <zoom type='entire-view' />
         </viewpoint>
@@ -2160,7 +2185,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='30' />
+      <active id='-1' />
       <simple-id uuid='{65A818B9-4E80-4010-9024-69C75DEBE167}' />
     </window>
     <window class='worksheet' name='Sheet 8'>
