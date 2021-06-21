@@ -20,7 +20,7 @@ Houses an executive [dashboard](Dashboard/GreenhouseGasDashboard.pdf) using clim
 
 Houses an executive [presentation](PowerPoint/TargettingGHGPP.pdf) using climate change data.  All new data sources used to build the power point files are included as well as the documentation on the formatting for the presentation. It was built in Tableau and presented via MS Power Point as a pdf file.
 
-## [Blog Folder](Blog/)
+## [Blog Folder](https://github.com/SDLoyd/GreenhouseGas/tree/main/Blog/)
 
 Houses a [blog](https://sdloyd.github.io/GreenhouseGas/Blog/InvisibleCrisis.htm) using climate change data.  All new data sources used to build the blog are included as well as the documentation on the formatting for the blog. It was built in Tableau and MS Word.
 
