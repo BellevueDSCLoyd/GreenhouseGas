@@ -45,3 +45,7 @@ To run the visuals locally, install Tableau and download the datasets and workbo
 * canva.com
 * MS PowerPoint
 * MS Word 
+
+## Credits
+
+_Iceberg [image](https://www.peakpx.com/433749/melted-iceberg-under-flying-birds-and-cloudy-sky) by Unknown at [Peakpx](https://www.peakpx.com/)_
